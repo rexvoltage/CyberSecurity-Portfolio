@@ -1,10 +1,10 @@
-# CyberSecurity-Portfolio
-Professional portfolio featuring cybersecurity, network security, OSINT, QHSE, and offshore industry projects.
-Professional Headline
+# Hi, I'm Ifeanyi Peter 👋
+
+#Professional Headline
 
 Offshore Electrical Technician | Cybersecurity Analyst | QHSE Professional | Firefighting & First Aid Certified | Sea Survival | Electrical Safety | Risk Management
 
-# About Section
+## About Me
 
 I am a dedicated Offshore Electrical Technician and aspiring Cybersecurity Analyst with a strong commitment to safety, operational excellence, and continuous professional development.
 
@@ -14,25 +14,35 @@ In addition to my offshore and electrical background, I am actively developing m
 
 I welcome opportunities to connect with professionals in the Oil & Gas, Maritime, Offshore Energy, Electrical Engineering, QHSE, and Cybersecurity sectors.
 
-# Skills Added
-Electrical Maintenance
-Electrical Safety
-Offshore Operations
-QHSE
-Firefighting
-First Aid
-Sea Survival
-Risk Assessment
-Hazard Identification
-Incident Response
-Health and Safety
-Cybersecurity
-Network Security
-OSINT
-Forensic Analyst
-Linux
-Information Security
-Troubleshooting
-Preventive Maintenance
-Safety Compliance
-Technical Documentation
+## Certifications & Training
+ 
+- Firefighting
+- First Aid & CPR
+- Quality, Health, Safety and Environment (QHSE)
+- Sea Survival
+- Electrical Safety, Installation And Maintenance
+- Cybersecurity Training
+
+  ## Technical Skills
+ 
+### Cybersecurity
+- Network Security
+- OSINT
+- Risk Assessment
+- Incident Response
+- Security Monitoring
+- Linux
+- Forensic Analyst
+ 
+### Electrical & Offshore Operations
+- Electrical Maintenance
+- Troubleshooting
+- Preventive Maintenance
+- Offshore Operations
+- Safety Compliance
+- Risk Management
+ 
+## Career Goals
+ 
+To combine expertise in offshore operations, industrial safety, and cybersecurity to help organizations protect people, assets, and critical infrastructure.
+
