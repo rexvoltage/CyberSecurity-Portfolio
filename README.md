@@ -28,7 +28,14 @@ I welcome opportunities to connect with professionals in the Oil & Gas, Maritime
 ### Cybersecurity
 - Network Security
 - OSINT
-- Risk Assessment
+- Penetration Testing
+-Log Analysis
+-Digital Forensics
+-OSINT
+-THreat Hunting
+-Social Engineering
+-vaulnerability Accessment
+-Governance Risk and Compliance
 - Incident Response
 - Security Monitoring
 - Linux
@@ -36,6 +43,7 @@ I welcome opportunities to connect with professionals in the Oil & Gas, Maritime
  
 ### Electrical & Offshore Operations
 - Electrical Maintenance
+- Installation
 - Troubleshooting
 - Preventive Maintenance
 - Offshore Operations
